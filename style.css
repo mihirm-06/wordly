@@ -1,3 +1,8 @@
+html
+{
+    background-color: #f5cec7
+}
+
 #title
 {
     text-align: center;
@@ -6,8 +11,8 @@
 
 .grid
 {
-    margin-left: 685px;
-    margin-right: 685px;
+    /*margin-left: 685px;
+    margin-right: 685px;*/
     padding: 0px;
     background-color: #f5cec7;
     border-radius: 5px;
