@@ -1,0 +1,38 @@
+#title
+{
+    text-align: center;
+    font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+}
+
+.grid
+{
+    margin-left: 685px;
+    margin-right: 685px;
+    padding: 0px;
+    background-color: #f5cec7;
+    border-radius: 5px;
+}
+
+.box
+{
+    width: 100px;
+    line-height: 100px;
+    margin: 3px 3px;
+    display: inline-block;
+    background-color: white;
+    border-radius: 5px;
+
+}
+
+.box span
+{
+    display: inline-block;
+    vertical-align: middle;
+    margin: auto;
+}
+
+.bg
+{
+    /*background-image: linear-gradient(#fdfbfb, #ebedee ) !important;*/
+    background-color: #f5cec7 !important;
+}
